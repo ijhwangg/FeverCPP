@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 
 using namespace std;
 
@@ -8,19 +8,19 @@ int main()
 
 	while (true)
 	{
-		cout << "ÆÇ¸Å ±Ý¾×À» ¸¸¿ø ´ÜÀ§·Î ÀÔ·Â(-1 to end): ";
+		cout << "íŒë§¤ ê¸ˆì•¡ì„ ë§Œì› ë‹¨ìœ„ë¡œ ìž…ë ¥(-1 to end): ";
 		int sel;
 		cin >> sel;
 		int incen = sel * 0.12;
 
 		if (0 > sel)
 		{
-			cout << "ÇÁ·Î±×·¥À» Á¾·áÇÕ´Ï´Ù." << endl;
+			cout << "í”„ë¡œê·¸ëž¨ì„ ì¢…ë£Œí•©ë‹ˆë‹¤." << endl;
 			break;
 		}
 		else
 		{
-			cout << "ÀÌ¹ø ´Þ ±Þ¿© : " << basic + incen << endl;
+			cout << "ì´ë²ˆ ë‹¬ ê¸‰ì—¬ : " << basic + incen << endl;
 		}
 	}
 
