@@ -13,6 +13,8 @@ int main()
 		result += a;
 	}
 
+
+
 	cout << "ÇÕ°è : " << result << endl;
 
 	return 0;
