@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 
 using namespace std;
 
@@ -7,9 +7,9 @@ int main()
 	char name[100];
 	char phoneNumber[100];
 
-	cout << "ÀÌ¸§ : ";
+	cout << "ì´ë¦„ : ";
 	cin >> name;
-	cout << "ÀüÈ­ ¹øÈ£ : ";
+	cout << "ì „í™” ë²ˆí˜¸ : ";
 	cin >> phoneNumber;
 
 	cout << name << " : " << phoneNumber << endl;
