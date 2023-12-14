@@ -8,10 +8,10 @@ void main()
 	for (int i = 0; i < 5; i++)
 	{
 		int a;
-		cout << i + 1 << "¹øÂ° Á¤¼ö ÀÔ·Â : ";
+		cout << i + 1 << "ï¿½ï¿½Â° ï¿½ï¿½ï¿½ï¿½ ï¿½Ô·ï¿½ : ";
 		cin >> a;
 		result += a;
 	}
 
-	cout << "ÇÕ°è : " << result << endl;
+	cout << "ï¿½Õ°ï¿½ : " << result << endl;
 }
