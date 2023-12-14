@@ -2,7 +2,7 @@
 
 using namespace std;
 
-void main()
+int main()
 {
 	int result = 0;
 	for (int i = 0; i < 5; i++)
@@ -14,4 +14,6 @@ void main()
 	}
 
 	cout << "гу╟Х : " << result << endl;
+
+	return 0;
 }
