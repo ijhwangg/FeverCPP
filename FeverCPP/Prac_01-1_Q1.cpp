@@ -1,17 +1,19 @@
-#include <iostream>
+ï»¿#include <iostream>
 
 using namespace std;
 
-void main()
+int main()
 {
-	int result = 0;
+	auto result = int{ 0 };
 	for (int i = 0; i < 5; i++)
 	{
 		int a;
-		cout << i + 1 << "¹øÂ° Á¤¼ö ÀÔ·Â : ";
+		cout << i + 1 << "ë²ˆì§¸ ì •ìˆ˜ ìž…ë ¥ : ";
 		cin >> a;
 		result += a;
 	}
 
-	cout << "ÇÕ°è : " << result << endl;
+	cout << "í•©ê³„ : " << result << endl;
+
+	return 0;
 }
