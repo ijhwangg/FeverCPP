@@ -13,22 +13,10 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\Part1">
-      <UniqueIdentifier>{53cddee6-b9dc-4626-8c21-c35bafe10eab}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\Part2">
-      <UniqueIdentifier>{7f72cbea-4f34-4067-9c10-4a7b1920ebb0}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\Part3">
-      <UniqueIdentifier>{70af642f-16d8-41fc-85ca-78925d5762ea}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\Part4">
-      <UniqueIdentifier>{d0743137-e991-4d78-ac45-4b54d3c3200a}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Practice01-1.cpp">
-      <Filter>소스 파일\Part1</Filter>
+    <ClCompile Include="Q1.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
