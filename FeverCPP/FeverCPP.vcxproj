@@ -11,14 +11,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Prac_01-1_Q1.cpp" />
-    <ClCompile Include="Prac_01-1_Q2.cpp" />
-    <ClCompile Include="Prac_01-1_Q3.cpp" />
-    <ClCompile Include="Prac_01-1_Q4.cpp" />
-    <ClCompile Include="Prac_01_2_Q1.cpp" />
+    <None Include=".editorconfig" />
   </ItemGroup>
   <ItemGroup>
-    <None Include=".editorconfig" />
+    <ClCompile Include="Prac_01_3_Q1.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
