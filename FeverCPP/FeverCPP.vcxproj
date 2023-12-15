@@ -14,7 +14,11 @@
     <None Include=".editorconfig" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Parc_01_03_Q2.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="NameSp2.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="NameSp2.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
