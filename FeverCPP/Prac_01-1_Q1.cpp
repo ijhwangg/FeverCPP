@@ -8,10 +8,10 @@ void main()
 	for (int i = 0; i < 5; i++)
 	{
 		int a;
-		cout << i + 1 << "��° ���� �Է� : ";
+		cout << i + 1 << "번째 정수 입력 : ";
 		cin >> a;
 		result += a;
 	}
 
-	cout << "�հ� : " << result << endl;
+	cout << "합계 : " << result << endl;
 }
