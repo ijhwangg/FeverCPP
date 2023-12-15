@@ -1,10 +1,10 @@
-#include <iostream>
+﻿#include <iostream>
 
 using namespace std;
 
-void main()
+int main()
 {
-	int result = 0;
+	auto result = int{ 0 };
 	for (int i = 0; i < 5; i++)
 	{
 		int a;
@@ -14,4 +14,6 @@ void main()
 	}
 
 	cout << "합계 : " << result << endl;
+
+	return 0;
 }
