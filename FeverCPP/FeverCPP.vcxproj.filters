@@ -15,6 +15,18 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Prac_01-1_Q1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Prac_01-1_Q2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Prac_01-1_Q3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Prac_01-1_Q4.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="Prac_01_2_Q1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
